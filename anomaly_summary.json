@@ -1,3 +1,11 @@
 {
   "total_anomalies": 1849,
-  "spikes": 
+  "spikes": 942,
+  "drops": 907,
+  "avg_spike_pct": 138.17301486199574,
+  "avg_drop_pct": -56.80195148842337,
+  "total_cost_impact": 426.4399999999987,
+  "max_spike_pct": 419.08,
+  "max_drop_pct": -81.38,
+  "detection_timestamp": "2025-10-29T10:13:18.467677"
+}
