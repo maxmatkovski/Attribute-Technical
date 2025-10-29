@@ -16,6 +16,7 @@
 - **Total Net Revenue:** $349,642.51
 - **Average Monthly Revenue per Customer:** $233.10
 
+![Visualization 1](viz1_profitability_by_plan.png)
 ---
 
 ### VISUALIZATION 1: Profitability & Growth - Revenue by Plan Type
