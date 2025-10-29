@@ -83,20 +83,43 @@
 
 ---
 
+
 ### VISUALIZATION 4: Risk & Opportunity - Revenue Concentration
+
 ![Visualization 4](viz4_risk_opportunity.png)
 
 **Key Findings:**
-- Top 20% of customers generate 55-60% of total revenue
-- Top 10% generate 35-40% of revenue
-- Average discount rate: 5.74%
-- Enterprise customers receive highest discounts (6.1%)
+- **Revenue Concentration:** Top 20% of customers generate 38.0% of revenue (MODERATE risk, not high)
+- **Top 10%:** Generate 20.2% of revenue  
+- **Largest single customer:** $538.52 (0.15% of total) - no single customer dependency
+- **Average discount rate:** 8.83% (higher than healthy threshold)
+
+**Revenue Concentration Analysis:**
+- Distribution is more balanced than typical B2B SaaS (which often sees 50-60% from top 20%)
+- No dangerous single-customer dependency (largest is only 0.15%)
+- Relatively healthy diversification across customer base
+- **Risk Level: MODERATE** (was incorrectly stated as HIGH)
+
+**Discount Rate Analysis:**
+- **Average: 8.83%** across all tiers
+- **417 customers (27.8%)** receive >10% discounts - significant margin impact
+- **Total revenue lost to discounts: $30,827.90** annually
+- Discount strategy appears inconsistent (0.005 correlation with usage)
 
 **Business Impact:**
-- High concentration creates vulnerability
-- Need to diversify mid-tier customer base
-- Discount policies may be too aggressive
----
+- Revenue concentration is manageable - diversification is working
+- Discount policy is the BIGGER issue - 8.83% average erodes margins
+- 27.8% of customers on >10% discounts suggests overly aggressive sales incentives
+- Opportunity to reclaim $30K+ by optimizing discount structure
+
+**Industry Concentration:**
+- E-commerce leads with 16.2% of revenue
+- Top 3 industries: 47.5% of revenue (balanced)
+- Healthy diversification across 7 industries
+
+**Churn Risk Indicators:**
+- Low usage accounts represent only $264 (minimal financial risk)
+- More concernED about the 907 accounts with >50% cost drops (from anomaly analysis)
 
 ### ONE-PARAGRAPH SUMMARY
 
