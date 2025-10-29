@@ -23,21 +23,22 @@
 ![Visualization 1](viz1_profitability_by_plan.png)
 
 **Key Findings:**
-- **Standard plans** dominate with 582 customers (39%) generating $152K total revenue
-- **Pro plans** serve 542 customers (36%) with $141K revenue
-- **Enterprise plans** have 219 customers (15%) generating $58K
-- **Free tier** has 157 customers (10%) with $2K revenue - significant upsell opportunity
+- **Standard plans** dominate with 582 customers (39%) generating $148.6K total revenue
+- **Pro plans** serve 542 customers (36%) with $141.4K revenue
+- **Enterprise plans** have 219 customers (15%) generating $57.5K
+- **Free tier** has 157 customers (10%) with $2.1K revenue - significant upsell opportunity
 
 **Profitability Insights:**
-- Enterprise customers show highest average revenue per customer ($265) but lower profit margins (30.5%)
-- Standard plans demonstrate best volume with 30.7% profit margins
-- Pro plans offer optimal balance of customer base and profitability (30.7% margins)
+- Enterprise customers show highest average revenue per customer ($263) AND highest profit margins (30.8%)
+- Standard plans demonstrate strong volume with healthy 30.7% profit margins
+- Pro plans have the LOWEST profit margins (30.5%) despite high customer count - pricing optimization needed
+- All tiers maintain 30%+ margins, indicating healthy unit economics
 
 **Business Impact:**
-- Standard tier is the revenue backbone
-- Enterprise segment needs margin improvement
+- Standard tier is the revenue backbone driving overall volume
+- Enterprise segment has best unit economics - focus on growing this tier
+- Pro tier needs pricing review - lowest margins suggest value leakage
 - 157 Free accounts represent $33K+ monthly expansion opportunity
-
 ---
 
 ### VISUALIZATION 2: Growth Trends - Monthly Revenue & Customer Activity
