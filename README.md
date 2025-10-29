@@ -38,7 +38,6 @@
 - Standard tier is the revenue backbone driving overall volume
 - Enterprise segment has best unit economics - focus on growing this tier
 - Pro tier needs pricing review - lowest margins suggest value leakage
-- 157 Free accounts represent $33K+ monthly expansion opportunity
 ---
 
 ### VISUALIZATION 2: Growth Trends - Monthly Revenue & Customer Activity
@@ -63,17 +62,24 @@
 
 ![Visualization 3](viz3_usage_behavior.png)
 
-
 **Key Findings:**
-- **Compute Hours:** 0.92 correlation with revenue (primary driver)
-- **Storage GB:** 0.68 correlation (moderate impact)
-- **Network GB:** 0.54 correlation (lower impact)
-- **Active Users:** 45 avg per account, 0.61 correlation
+- **Compute Hours:** 0.89 correlation with revenue (strongest driver)
+- **Storage GB:** 0.86 correlation (strong impact)
+- **Network GB:** 0.85 correlation (strong impact)
+- **Active Users:** 0.42 correlation (moderate indicator)
+
+**Usage Pattern Insights:**
+- All three resources (compute, storage, network) show strong correlation with revenue (0.85+)
+- Resources are highly correlated with each other (0.72-0.78), suggesting bundled usage patterns
+- Customers who use one resource heavily tend to use all resources heavily
+- Discount percentage shows near-zero correlation with all metrics (0.005), indicating discounts are applied independently of usage
 
 **Business Impact:**
-- Optimize compute pricing for maximum revenue
-- Bundle compute + storage for higher value
-- User count is a leading indicator for expansion
+- **Optimize all three resources, not just compute** - they're equally important revenue drivers
+- **Bundle compute + storage + network** for maximum value - customers use them together
+- **Active users (0.42 correlation)** is a weaker leading indicator than expected
+- **Usage intensity matters more than user count** for revenue prediction
+- Discount strategy is disconnected from usage patterns - consider usage-based discounting
 
 ---
 
