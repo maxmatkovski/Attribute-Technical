@@ -333,23 +333,22 @@ python anomaly_automation.py --billing billing.csv --output daily_anomalies.csv
 ---
 
 ## KEY RECOMMENDATIONS
-
 ### Immediate Actions (0-30 days)
-1. Contact top 20% customers for retention
-2. Investigate 419%+ spike accounts
-3. Reach out to 907 cost-drop accounts (churn risk)
-4. Audit discount policies >15%
+1. **Audit discount policy** - 417 customers (27.8%) receiving >10% discounts, totaling $30,828 lost revenue
+2. **Investigate 419%+ spike accounts** - verify expected usage, offer reserved capacity
+3. **Reach out to 907 cost-drop accounts** - highest churn risk requiring immediate intervention
+4. **Pro tier pricing review** - lowest margins at 30.5% despite high volume
 
 ### Short-term (1-3 months)
-1. Deploy automated anomaly monitoring (weekly runs)
-2. Launch Free → Paid conversion campaign (157 accounts)
-3. Implement customer success tiering
-4. Optimize pricing structure
+1. **Deploy automated anomaly monitoring** - weekly runs with email/Slack alerts
+2. **Implement usage-based discount structure** - currently 0.005 correlation (random)
+3. **Launch Free → Paid conversion campaign** - 157 accounts, $2.1K → potential $40K
+4. **Enterprise tier expansion** - best unit economics at 30.8% margins
 
 ### Strategic (3-6 months)
-1. Diversify revenue base (reduce concentration risk)
-2. Develop usage-based pricing tiers
-3. Build churn prediction model
-4. Expand in healthcare and IoT sectors
+1. **Develop bundled pricing model** - all three resources (compute/storage/network) drive revenue equally (0.85-0.89 correlation)
+2. **Build churn prediction model** - use cost drop patterns and usage intensity
+3. **Pro tier feature differentiation** - justify pricing, improve margins
+4. **Reserved capacity offerings** - for cyclical usage patterns like A0814
 
 ---
