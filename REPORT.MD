@@ -16,10 +16,11 @@
 - **Total Net Revenue:** $349,642.51
 - **Average Monthly Revenue per Customer:** $233.10
 
-![Visualization 1](viz1_profitability_by_plan.png)
 ---
 
 ### VISUALIZATION 1: Profitability & Growth - Revenue by Plan Type
+
+![Visualization 1](viz1_profitability_by_plan.png)
 
 **Key Findings:**
 - **Standard plans** dominate with 582 customers (39%) generating $152K total revenue
@@ -41,6 +42,9 @@
 
 ### VISUALIZATION 2: Growth Trends - Monthly Revenue & Customer Activity
 
+![Visualization 2](viz2_growth_trends.png)
+
+
 **Key Findings:**
 - **Peak Revenue:** February 2024 at $16,939
 - **Customer Stability:** ~1,500 active accounts maintained
@@ -56,6 +60,9 @@
 
 ### VISUALIZATION 3: Usage Behavior - Resource Utilization Patterns
 
+![Visualization 3](viz3_usage_behavior.png)
+
+
 **Key Findings:**
 - **Compute Hours:** 0.92 correlation with revenue (primary driver)
 - **Storage GB:** 0.68 correlation (moderate impact)
@@ -70,6 +77,7 @@
 ---
 
 ### VISUALIZATION 4: Risk & Opportunity - Revenue Concentration
+![Visualization 4](viz4_risk_opportunity.png)
 
 **Key Findings:**
 - Top 20% of customers generate 55-60% of total revenue
@@ -81,7 +89,6 @@
 - High concentration creates vulnerability
 - Need to diversify mid-tier customer base
 - Discount policies may be too aggressive
-
 ---
 
 ### ONE-PARAGRAPH SUMMARY
